@@ -6,4 +6,5 @@ This is a classification problem. Given the interaction log of a student, we wan
 Our final solution involved the selection of 57 features, including several of the affect history features we added. Using a random forest with 40 trees, it scored a Cohen’s Kappa of 0.306, and scored 0.230 on the test set. The cross-validation score is significantly better than the cross-validation score reported earlier, but the test score suggests that the data set desperately needs expansion.
 
 Email me at shamya16@gmail.com for data
+
 Project report - report.pdf 
